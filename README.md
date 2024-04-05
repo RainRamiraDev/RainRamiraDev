@@ -11,8 +11,11 @@
         <img alt="Muestra un sol ilustrado en el modo claro y una luna con estrellas en el modo oscuro." src="[URL-de-imagen-por-defecto]">
     </picture>
 </div>
- 
-## 📁 Actividades Completadas en Laboratorio de Computación III:
+
+ <div align="center">
+     ## 📁 Actividades Completadas en Laboratorio de Computación III:
+ </div>
+
 
 - ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea1/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**  
 
