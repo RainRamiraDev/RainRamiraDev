@@ -9,10 +9,10 @@
 ## 📁 Actividades Completadas en Laboratorio de Computación III:
 
 ---
-- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!](https://github.com/tuusuario/Ejercicio01)**  
+- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!]([https://github.com/tuusuario/Ejercicio01](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea1/src/main/java/ar/edu/utn/frc/tup/lciii/App.java))**  
 
-- ☑️ **[Ejercicio 02: Java - Stdin & Stdout](https://github.com/tuusuario/Ejercicio02)**  
+- ☑️ **[Ejercicio 02: Java - Stdin & Stdout]([https://github.com/tuusuario/Ejercicio02](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea2/src/main/java/ar/edu/utn/frc/tup/lciii/App.java))**  
 
-- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2](https://github.com/tuusuario/Ejercicio03)**  
+- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2]([https://github.com/tuusuario/Ejercicio03](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea3/src/main/java/ar/edu/utn/frc/tup/lciii/App.java))**  
 
-- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else](https://github.com/tuusuario/Ejercicio04)**
+- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else]([https://github.com/tuusuario/Ejercicio04](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea4/src/main/java/ar/edu/utn/frc/tup/lciii/App.java))**
