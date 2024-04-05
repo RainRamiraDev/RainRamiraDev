@@ -23,6 +23,9 @@
     
 - ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea4/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
 
+- ☑️ **[Ejercicio 05 - Java - Loops 1](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea5/src/main/java/ar/edu/utn/frc/tup/lciii/App.java))**
+
+- ☑️ **[Ejercicio 06 - Java - Loops 2](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea6/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
 
  ## 📭 Contáctame
 
