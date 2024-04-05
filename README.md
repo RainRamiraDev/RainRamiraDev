@@ -1,5 +1,9 @@
-# 🍃🌧️🪐114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🍃🌧️🪐
 
+<div>
+<h1 align="center">
+    🍃🌧️🪐114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🍃🌧️🪐
+</h1>
+</div>
 <div style="text-align: center;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/74/ad/28/74ad281c6bf4fa367d6aa79021eefbdb.jpg" alt="banner" border="0" width="5000">
