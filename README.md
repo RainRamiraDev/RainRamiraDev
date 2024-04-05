@@ -6,8 +6,8 @@
 </div>
 <div style="text-align: center;">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/74/ad/28/74ad281c6bf4fa367d6aa79021eefbdb.jpg" alt="banner" border="0" width="5000">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" alt="banner" border="0" width="50000000">
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/90/85/62/908562a0ecff4871d7f3d01f8dbfe4f9.jpg" alt="banner" border="0" width="5000">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/90/85/62/908562a0ecff4871d7f3d01f8dbfe4f9.jpg" alt="banner" border="0" width="50000000">
         <img alt="Muestra un sol ilustrado en el modo claro y una luna con estrellas en el modo oscuro." src="[URL-de-imagen-por-defecto]">
     </picture>
 </div>
