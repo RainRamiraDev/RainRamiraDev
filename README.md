@@ -26,7 +26,7 @@
 
  ## ╰┈➤ Contáctame
 
- 📧 114005@tecnicatura.frc.utn.edu.ar
+- 📧 **114005@tecnicatura.frc.utn.edu.ar**
  
- 📧 r.sannarain@gmail.com
+- 📧 **r.sannarain@gmail.com**
 
