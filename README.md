@@ -1,8 +1,8 @@
 
 <div>
-<h1 align="center">
-    🍃🌧️🪐114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🍃🌧️🪐
-</h1>
+    <h1 align="center" style="font-size: 24px;">
+        🍃🌧️🪐114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🍃🌧️🪐
+    </h1>
 </div>
 <div style="text-align: center;">
     <picture>
