@@ -1,6 +1,6 @@
 
 <div>
-    <h1 align="center" style="font-size: 24px;">
+    <h1 align="center" style="font-size: 20px;">
         🍃🌧️🪐114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🍃🌧️🪐
     </h1>
 </div>
