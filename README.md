@@ -1,3 +1,5 @@
+# Mi Portafolio en GitHub
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/74/ad/28/74ad281c6bf4fa367d6aa79021eefbdb.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -7,15 +9,10 @@
 ## 📁 Actividades Completadas en Laboratorio de Computación III:
 
 ---
+- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!](https://github.com/tuusuario/Ejercicio01)**  
 
-- ☑️ **Ejercicio 01: Java - ¡Hola Mundo!**  
-  Un programa simple en Java para imprimir "¡Hola, Mundo!" en la consola.
+- ☑️ **[Ejercicio 02: Java - Stdin & Stdout](https://github.com/tuusuario/Ejercicio02)**  
 
-- ☑️ **Ejercicio 02: Java - Stdin & Stdout**  
-  Práctica de manejo de flujos de entrada y salida estándar en Java.
+- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2](https://github.com/tuusuario/Ejercicio03)**  
 
-- ☑️ **Ejercicio 03: Java - Stdin & Stdout 2**  
-  Exploración adicional de stdin y stdout en Java con diferentes tipos de datos.
-
-- ☑️ **Ejercicio 04: Declaraciones Condicionales if-else**  
-  Comprensión de las declaraciones condicionales en Java usando construcciones if-else.
+- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else](https://github.com/tuusuario/Ejercicio04)**
