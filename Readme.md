@@ -27,11 +27,11 @@
 
 - ☑️ **[Ejercicio 06 - Java - Loops 2](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea6/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
 
-  ## 📁 Actividades Completadas en Programacion III:
+ ## 📁 Actividades Completadas en Programacion III:
   
 - ☑️ **[Resolucion Ejercicio Bootstrap]()**
 
-  ## 📭 Contáctame
+ ## 📭 Contáctame
 
 - 📧 **114005@tecnicatura.frc.utn.edu.ar**
  
