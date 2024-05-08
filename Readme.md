@@ -29,7 +29,8 @@
 
  ## 📁 Actividades Completadas en Programacion III:
   
-- ☑️ **[Resolucion Ejercicio Bootstrap]()**
+- ☑️ **[Trabajo Practico Integrador Bootstrap]([https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Trabajo%20Practico%20Integrador%20Bootstrap))**
+- ☑️ **[Trabajo Practico Integrador JQuery Validate](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Trabajo%20Integrador%20Bootstrao-JQuery%20Validate)**
 
  ## 📭 Contáctame
 
