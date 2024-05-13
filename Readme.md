@@ -15,17 +15,35 @@
 
   ## 📁 Actividades Completadas en Laboratorio de Computación III:
 
-- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea1/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**  
+- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!]()**  
 
-- ☑️ **[Ejercicio 02: Java - Stdin & Stdout](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea2/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**  
+- ☑️ **[Ejercicio 02: Java - Stdin & Stdout]()**  
     
-- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea3/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**  
+- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2]()**  
     
-- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea4/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
+- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else]()**
 
-- ☑️ **[Ejercicio 05 - Java - Loops 1](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea5/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
+- ☑️ **[Ejercicio 05 - Java - Loops 1]()**
 
-- ☑️ **[Ejercicio 06 - Java - Loops 2](https://github.com/114005-RAMIRA/ClassRoom/blob/main/Tarea6/src/main/java/ar/edu/utn/frc/tup/lciii/App.java)**
+- ☑️ **[Ejercicio 06 - Java - Loops 2]()**
+
+- ☑️ **[Ejercicio-07---java---substring]()**
+  
+- ☑️ **[Ejercicio-08---java---substrings-2]()**
+  
+- ☑️ **[ejercicio-09---java---strings]()**
+  
+- ☑️ **[ejercicio-10---java---strings-2]()**
+  
+- ☑️ **[ejercicio-11---java---strings-3]()**
+  
+- ☑️ **[ejercicio-12---java---list]()**
+  
+- ☑️ **[ejercicio-13---java]()**
+  
+- ☑️ **[ejercicio-14---java]()**
+  
+- ☑️ **[ejercicio-15---herencia]()**    
 
  ## 📁 Actividades Completadas en Programacion III:
   
