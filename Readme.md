@@ -43,7 +43,19 @@
   
 - ☑️ **[ejercicio-14---java]()**
   
-- ☑️ **[ejercicio-15---herencia]()**    
+- ☑️ **[ejercicio-15---herencia]()**
+  
+- ☑️ **[Practica Treemap](https://github.com/114005-RAMIRA/Practica-Laboratorio-III/blob/main/Ejercicios%20de%20la%20guia/PracticaTreeMap/src/main/java/org/example/App.java)**
+
+- ☑️ **[Practica Vector](https://github.com/114005-RAMIRA/Practica-Laboratorio-III/blob/main/Ejercicios%20de%20la%20guia/PracticaVector/src/main/java/org/example/App.java)**
+
+- ☑️ **[Practica HashMap]()**
+
+- ☑️ **[Batalla Naval Alpha]()**
+
+- ☑️ **[Ahorcado]()**
+
+- ☑️ **[Escoba]()**  
 
  ## 📁 Actividades Completadas en Programacion III:
   
