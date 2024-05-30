@@ -65,6 +65,10 @@
   
 - ☑️ **[Trabajo Practico Pre-Parcial](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Practico%20Pre-Parcial)**
 
+- ☑️ **[Primer Parcial-HTML,CSS,BOOTSTRAP,JQUERY]()**
+
+- ☑️ **[Practica-Inyeccion de dependencias]()**
+
  ## 📭 Contáctame
 
 - 📧 **114005@tecnicatura.frc.utn.edu.ar**
