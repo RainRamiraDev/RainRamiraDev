@@ -65,7 +65,7 @@
   
 - ☑️ **[Trabajo Practico Pre-Parcial](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Practico%20Pre-Parcial)**
 
-- ☑️ **[Primer Parcial-HTML,CSS,BOOTSTRAP,JQUERY]()**
+- ☑️ **[Primer Parcial-HTML,CSS,BOOTSTRAP,JQUERY](https://github.com/114005-RAMIRA/Practica-Programacion-III/tree/main/first-exam-114005-RAMIRA)**
 
 - ☑️ **[Practica-Inyeccion de dependencias](https://github.com/114005-RAMIRA/Practica-Programacion-III/tree/main/utn-prog3-net-di-repository)**
 
