@@ -67,7 +67,7 @@
 
 - ☑️ **[Primer Parcial-HTML,CSS,BOOTSTRAP,JQUERY]()**
 
-- ☑️ **[Practica-Inyeccion de dependencias]()**
+- ☑️ **[Practica-Inyeccion de dependencias](https://github.com/114005-RAMIRA/Practica-Programacion-III/tree/main/utn-prog3-net-di-repository)**
 
  ## 📭 Contáctame
 
