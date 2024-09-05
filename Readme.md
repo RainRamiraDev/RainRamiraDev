@@ -13,15 +13,15 @@
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
         
-### Languages
+### Languages y Librerias
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet" /> 
 </div>
 </a>
 
