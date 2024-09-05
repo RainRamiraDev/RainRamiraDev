@@ -10,7 +10,7 @@
 
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
+### Diseño  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js&perline=4" /> 
@@ -18,7 +18,7 @@
 </a>
  </td><td valign="top" width="25%">
         
-### Languages y Librerias
+### Languajes y Libreria
 <a href="https://github.com/tayyabadev">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet" /> 
@@ -27,14 +27,36 @@
 
 </td><td valign="top" width="25%">
   
-### Others
+### Herramientas
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,notion,postman,powershell,visualstudio,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
-</tr></table>
+</tr>
+
+<td valign="top" width="25%">
+  
+### Bases de Datos
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=mongodb&perline=4" /> 
+</div>
+</a>
+</td>
+</tr>
+
+
+
+
+
+
+
+</table>
+
+
+
 
 ---
 
