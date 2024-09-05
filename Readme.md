@@ -81,14 +81,8 @@
     <a href="https://github.com/RainRamiraDev/Sensores-laboIII">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainRamiraDev&repo=Sensores-laboIII&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="Sensores-laboIII">
     </a>
-    <a href="https://github.com/tu_usuario/tu_proyecto_2">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=tu_proyecto_2&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="tu_proyecto_2">
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://github.com/tu_usuario/tu_repo_de_forks">
-        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-282b33?style=for-the-badge&logoColor=ffffff"/>
+    <a href="https://github.com/RainRamiraDev/Directorio-de-Peliculas">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainRamiraDev&repo=Directorio-de-Peliculas&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="Directorio-de-Peliculas">
     </a>
 </p>
 
