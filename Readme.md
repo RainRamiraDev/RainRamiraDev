@@ -2,11 +2,11 @@
 
 ## Bienvenido a mi perfil
 
-¡Hola! Soy [Tu Nombre], un desarrollador apasionado por [tu área de interés]. Aquí encontrarás información sobre las tecnologías que manejo, los proyectos en los que he trabajado y cómo puedes ponerte en contacto conmigo.
+¡Hola! Soy Rain, un desarrollador apasionado por el diseño web. Aquí encontrarás información sobre las tecnologías que manejo, los proyectos en los que he trabajado y cómo puedes ponerte en contacto conmigo.
 
 ---
 
-## Skill Set:
+## Habilidades:
 
 <table><tr><td valign="top" width="25%">
 
@@ -41,7 +41,7 @@
 ## Proyectos Destacados
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>Mis Proyectos</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
