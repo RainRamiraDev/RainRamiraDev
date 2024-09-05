@@ -30,28 +30,43 @@
 ### Herramientas
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,notion,postman,powershell,visualstudio,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,maven,notion,spring,postman,powershell,bash,jquery,md,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
 </tr>
 
 <td valign="top" width="25%">
+        
+### Sistemas Operativos
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=windows,ubuntu" /> 
+</div>
+</a>
+
+</td>
+
+<td valign="top" width="25%">
   
 ### Bases de Datos
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mongodb&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4" /> 
+</div>
+</a>
+</td>
+
+</td><td valign="top" width="25%">
+  
+### IDEs
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
 </tr>
-
-
-
-
-
-
 
 </table>
 
@@ -62,20 +77,21 @@
 
 ## Proyectos Destacados
 
-  <p align="left">
-    <a href="https://github.com/pallets/flask">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="flask">
+<p align="left">
+    <a href="https://github.com/RainRamiraDev/Sensores-laboIII">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainRamiraDev&repo=Sensores-laboIII&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="Sensores-laboIII">
     </a>
-    <a href="https://github.com/badges/shields">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="shields">
+    <a href="https://github.com/tu_usuario/tu_proyecto_2">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=tu_proyecto_2&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=282b33&show_icons=false&show_description=false" alt="tu_proyecto_2">
     </a>
 </p>
 
 <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md">
+    <a href="https://github.com/tu_usuario/tu_repo_de_forks">
         <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-282b33?style=for-the-badge&logoColor=ffffff"/>
     </a>
 </p>
+
 
 
 ---
