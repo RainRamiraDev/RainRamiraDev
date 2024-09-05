@@ -1,77 +1,44 @@
+# ![Header Image](URL_DE_TU_IMAGEN_DE_HEADER)
 
-<div>
-    <h1 align="center">
-        🌧️114005-𝓡𝓐𝓘𝓝 𝓡𝓐𝓜𝓘𝓡𝓐🌧️
-    </h1>
-</div>
-<div style="text-align: center;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/90/85/62/908562a0ecff4871d7f3d01f8dbfe4f9.jpg" alt="banner" border="0" width="5000">
-        <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/90/85/62/908562a0ecff4871d7f3d01f8dbfe4f9.jpg" alt="banner" border="0" width="50000000">
-        <img alt="Muestra un sol ilustrado en el modo claro y una luna con estrellas en el modo oscuro." src="[URL-de-imagen-por-defecto]">
-    </picture>
-</div>
+## Bienvenido a mi perfil
 
+¡Hola! Soy [Tu Nombre], un desarrollador apasionado por [tu área de interés]. Aquí encontrarás información sobre las tecnologías que manejo, los proyectos en los que he trabajado y cómo puedes ponerte en contacto conmigo.
 
-  ## 📁 Actividades Completadas en Laboratorio de Computación III:
+---
 
-- ☑️ **[Ejercicio 01: Java - ¡Hola Mundo!]()**  
+## Tecnologías que manejo
 
-- ☑️ **[Ejercicio 02: Java - Stdin & Stdout]()**  
-    
-- ☑️ **[Ejercicio 03: Java - Stdin & Stdout 2]()**  
-    
-- ☑️ **[Ejercicio 04: Declaraciones Condicionales if-else]()**
+- **Lenguajes de programación**: JavaScript, Python, Java, etc.
+- **Frameworks y librerías**: React, Angular, Django, etc.
+- **Bases de datos**: MySQL, MongoDB, PostgreSQL, etc.
+- **Herramientas y plataformas**: Git, Docker, AWS, etc.
+- **Otros**: [Cualquier otra tecnología relevante]
 
-- ☑️ **[Ejercicio 05 - Java - Loops 1]()**
+---
 
-- ☑️ **[Ejercicio 06 - Java - Loops 2]()**
+## Proyectos Destacados
 
-- ☑️ **[Ejercicio-07---java---substring]()**
-  
-- ☑️ **[Ejercicio-08---java---substrings-2]()**
-  
-- ☑️ **[ejercicio-09---java---strings]()**
-  
-- ☑️ **[ejercicio-10---java---strings-2]()**
-  
-- ☑️ **[ejercicio-11---java---strings-3]()**
-  
-- ☑️ **[ejercicio-12---java---list]()**
-  
-- ☑️ **[ejercicio-13---java]()**
-  
-- ☑️ **[ejercicio-14---java]()**
-  
-- ☑️ **[ejercicio-15---herencia]()**
-  
-- ☑️ **[Practica Treemap](https://github.com/114005-RAMIRA/Practica-Laboratorio-III/blob/main/Ejercicios%20de%20la%20guia/PracticaTreeMap/src/main/java/org/example/App.java)**
+Aquí te muestro algunos de mis proyectos más relevantes:
 
-- ☑️ **[Practica Vector](https://github.com/114005-RAMIRA/Practica-Laboratorio-III/blob/main/Ejercicios%20de%20la%20guia/PracticaVector/src/main/java/org/example/App.java)**
+- [**Proyecto 1**](URL_DEL_PROYECTO_1): Una breve descripción del proyecto y su propósito.
+- [**Proyecto 2**](URL_DEL_PROYECTO_2): Una breve descripción del proyecto y su propósito.
+- [**Proyecto 3**](URL_DEL_PROYECTO_3): Una breve descripción del proyecto y su propósito.
 
-- ☑️ **[Practica HashMap]()**
+Puedes encontrar más proyectos en mi [portafolio](URL_DE_TU_PORTAFOLIO).
 
-- ☑️ **[Batalla Naval Alpha]()**
+---
 
-- ☑️ **[Ahorcado]()**
+## Contacto
 
-- ☑️ **[Escoba]()**  
+Si quieres ponerte en contacto conmigo, aquí están mis datos:
 
- ## 📁 Actividades Completadas en Programacion III:
-  
-- ☑️ **[Trabajo Practico Integrador Bootstrap](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Trabajo%20Practico%20Integrador%20Bootstrap)**
-  
-- ☑️ **[Trabajo Practico Integrador JQuery Validate](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Trabajo%20Integrador%20Bootstrao-JQuery%20Validate)**
-  
-- ☑️ **[Trabajo Practico Pre-Parcial](https://github.com/114005-RAMIRA/Practica-Programacion-II/tree/main/Practico%20Pre-Parcial)**
+- **Correo electrónico**: [tu.email@dominio.com](mailto:tu.email@dominio.com)
+- **LinkedIn**: [Tu Perfil de LinkedIn](URL_DE_TU_LINKEDIN)
+- **Twitter**: [Tu Perfil de Twitter](URL_DE_TU_TWITTER)
+- **GitHub**: [Tu Perfil de GitHub](https://github.com/tu-perfil)
 
-- ☑️ **[Primer Parcial-HTML,CSS,BOOTSTRAP,JQUERY](https://github.com/114005-RAMIRA/Practica-Programacion-III/tree/main/first-exam-114005-RAMIRA)**
+¡No dudes en comunicarte si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto!
 
-- ☑️ **[Practica-Inyeccion de dependencias](https://github.com/114005-RAMIRA/Practica-Programacion-III/tree/main/utn-prog3-net-di-repository)**
+---
 
- ## 📭 Contáctame
-
-- 📧 **114005@tecnicatura.frc.utn.edu.ar**
- 
-- 📧 **r.sannarain@gmail.com**
-
+¡Gracias por visitar mi perfil!
