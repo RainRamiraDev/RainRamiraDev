@@ -94,13 +94,13 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank" title="LinkedIn - Kenan Gain">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain LinkedIn">
+        <a href="https://www.linkedin.com/in/rramira/" target="_blank" title="LinkedIn - Rain Ramira">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Rain+Ramira&size=square" alt="Rain Ramira LinkedIn">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/KenanGain" target="_blank" title="GitHub - Kenan Gain">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain GitHub">
+        <a href="https://github.com/RainRamiraDev" target="_blank" title="GitHub - Kenan Gain">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FRain+Ramira&size=square" alt="Rain Ramira GitHub">
         </a>
       </td>
     </tr>
