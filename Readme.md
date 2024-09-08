@@ -18,7 +18,7 @@
 </a>
  </td><td valign="top" width="25%">
         
-### Languajes y Libreria
+### Lenguajes y Libreria
 <a href="https://github.com/tayyabadev">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet" /> 
