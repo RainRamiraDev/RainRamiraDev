@@ -11,7 +11,7 @@
 <table><tr><td valign="top" width="25%">
 
 ### Diseño  
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js&perline=4" /> 
 </div>
@@ -19,18 +19,18 @@
  </td><td valign="top" width="25%">
         
 ### Lenguajes y Libreria
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet,express,jquery,spring,nodejs,ts" /> 
 </div>
 </a>
 
 </td><td valign="top" width="25%">
   
 ### Herramientas
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,maven,notion,spring,postman,powershell,bash,jquery,md,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,maven,docker,notion,postman,powershell,bash,graphql,md,apollo,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
@@ -39,7 +39,7 @@
 <td valign="top" width="25%">
         
 ### Sistemas Operativos
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=windows,ubuntu" /> 
 </div>
@@ -50,7 +50,7 @@
 <td valign="top" width="25%">
   
 ### Bases de Datos
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4" /> 
 </div>
@@ -60,7 +60,7 @@
 </td><td valign="top" width="25%">
   
 ### IDEs
-<a href="https://github.com/tayyabadev">
+<a href="">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,vscodeqt&perline=4" /> 
 </div>
