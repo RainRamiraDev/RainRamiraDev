@@ -21,7 +21,7 @@
 ### Lenguajes y Libreria
 <a href="">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet,express,jquery,spring,nodejs,ts" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,cs,dotnet,express,jquery,spring,nodejs,ts&perline=4" /> 
 </div>
 </a>
 
@@ -41,7 +41,7 @@
 ### Sistemas Operativos
 <a href="">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=windows,ubuntu" /> 
+       <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=4" /> 
 </div>
 </a>
 
