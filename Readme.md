@@ -53,7 +53,7 @@
 <a href="">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-       <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="48" height="48" alt="SQL Server"/>
+       <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
 </div>
 </a>
 
