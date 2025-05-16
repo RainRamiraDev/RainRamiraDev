@@ -77,11 +77,7 @@
 
 ## Proyectos Destacados
 
-<p align="left">
-    <a href="https://github.com/RainRamiraDev/Directorio-de-Peliculas">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RainRamiraDev&repo=Directorio-de-Peliculas&theme=react&bg_color=2d6afa&title_color=aefa2d&hide_border=true&icon_color=aefa2d&show_icons=true&show_description=false" alt="Directorio-de-Peliculas">
-    </a>
-</p>
+
 
 
 
